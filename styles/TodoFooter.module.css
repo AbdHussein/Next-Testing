@@ -1,0 +1,16 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todo p{
+    font-weight: 600;
+    color: grey
+}
+
+.todo a {
+    font-weight: 600;
+    color: grey;
+    text-decoration: none;
+}

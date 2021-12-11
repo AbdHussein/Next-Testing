@@ -1,0 +1,37 @@
+.followers {
+    margin-top: -22.5vh;
+}
+
+.container {
+    background-color: white;
+    border-radius: 0.25rem;
+    padding: 1rem;
+    box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.329);
+    height: 50vh;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item {
+    display: flex;
+    padding: 1rem 0;
+    border-bottom: .05rem solid rgba(0, 0, 0, 0.082);
+}
+
+.details {
+    margin-left: 1.25rem;
+}
+
+.itemName {
+    display: flex;
+}
+
+.itemName h4 {
+    margin-right: 0.5rem;
+}
+
+.item img {
+    border-radius: 50%;
+}
